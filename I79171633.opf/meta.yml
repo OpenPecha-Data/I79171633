@@ -1,0 +1,31 @@
+id: I79171633
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:59:30.334635'
+last_modified: '2022-05-31T04:59:30.334640'
+parser: null
+source_metadata:
+  title: Lachung Apo Series
+  language: bo
+  description: 'Texts by the Nyingma master Lachung Apo (bla chung a pho) alias Thupten
+    Sherab Gyatso (thub bstan shes rab rgya mtsho, 1905–1975), who was a close friend
+    and biographer of Gendün Chöpel:'
+  volume:
+    f2539:
+      title: 'Aho Ye: Impressions of an Insightful Experience'
+      base_file: f2539.txt
+      order: 1
+      parent: Dzogchen
+    f9D3E:
+      title: 'Wisdom Nexus: A Guru Sādhana'
+      base_file: f9D3E.txt
+      order: 2
+      parent: Dzogchen
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
